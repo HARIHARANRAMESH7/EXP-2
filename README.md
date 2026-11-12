@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | R.HARIHARAN| **Reg. No.:** |26007554 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |12.11.2026 | **Batch / Section:** | 26ODJ084|
 
 ---
 
@@ -66,13 +66,15 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="733" height="573" alt="Screenshot 2026-11-12 162158" src="https://github.com/user-attachments/assets/363175af-4fb1-4d42-b90a-f3db7ceac14e" />
+
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="623" height="466" alt="Screenshot 2026-11-12 161919" src="https://github.com/user-attachments/assets/771e27e9-e01b-48b6-9332-3b381bdca2aa" />
+
 
 **Figure 3:** Virtual Lab simulation – load test
 
@@ -82,27 +84,27 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Field current If (A) | Generated EMF Eg (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 |0 |0 |
+| 2 |115 |0.16|
+| 3 |120 |0.18|
+| 4 |126 |0.20 |
+| 5 |129|0.21 |
+| 6 |135 |0.24 |
+| 7 |138 |0.28 |
+| 8 |142 |0.30 |
 
 ### B. Load test
 
 | S. No. | Load current IL (A) | Load voltage VL (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 |1.2 |220 |
+| 2 |2.8 |212 |
+| 3 |3.2 |208 |
+| 4 |3.6 |205 |
+| 5 |5.5 |200 |
+| 6 |7 |195 |
+| 7 |8.1 |189 |
+| 8 |10.2 |184 |
 
 ## FORMULA
 
