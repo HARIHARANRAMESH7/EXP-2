@@ -116,14 +116,12 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-<img width="603" height="205" alt="Screenshot 2026-11-12 161919" src="https://github.com/user-attachments/assets/4bb76a20-ab1a-47cf-a04f-ae258b8af895" />
-
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
+<img width="603" height="205" alt="Screenshot 2026-11-12 161919" src="https://github.com/user-attachments/assets/c2aed883-fad5-433b-a591-6a6cea2bf8b7" />
 
 **Figure 5:** Load characteristics
 
